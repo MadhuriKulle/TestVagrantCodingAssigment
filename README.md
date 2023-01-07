@@ -6,7 +6,9 @@ Developed framework using PageObjectModel design Pattern using Java and TestNG u
 Dependencies: Installed Java 11, Maven and Eclipse on system.
 
 Libraries Used: TestNG, Jackson-databind
+
 Steps To executing Tests:
+
 Method 1:
 1. git clone https://github.com/MadhuriKulle/TestVagrantCodingAssigment.git
   cd 

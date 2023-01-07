@@ -37,7 +37,7 @@ public class RCBTeamQueryValidation extends ConvertJSONToPOJOClass {
 		
 		for(int i=0; i<players.size(); i++)
 		{
-			if(!players.get(i).getCountry().equalsIgnoreCase("India"))
+			if(players.get(i).getRole().equalsIgnoreCase("Wicket-keeper"))
 			{
 				wkcount++;
 			}
